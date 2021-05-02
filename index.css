@@ -47,6 +47,13 @@
   margin: auto;
 }
 
+.footer-copyright {
+  width: 600px;
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+}
+
 button {
   background-color: rgb(206, 156, 20);
   color:white;
@@ -67,6 +74,9 @@ a {
   color: white;
 }
 
+.icons {
+  padding: 20px;
+}
 .icons a {
   color: white;
 }
