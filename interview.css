@@ -1,0 +1,67 @@
+.salesLabX {
+  position: relative;
+  text-align: center;
+  color: white;
+  background: url(./images/AD_bg_header-iNc.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.keyProductFeatures {
+  text-align: center;
+}
+
+.keyProductFeatures a {
+  color:  rgb(206, 156, 20);
+}
+
+.caseStudy {
+  position: relative;
+  text-align: center;
+  color: white;
+  background: url(./images/AD_bg_section3-lOn.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+
+.footerInfo {
+  background-color: #081c3d;
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+button {
+  background-color: rgb(206, 156, 20);
+  color:white;
+  border: none;
+}
+
+.logo {
+  margin-top: 40px;
+  height: 70px;
+  background-color: white;
+}
+
+
+a {
+  text-decoration: none;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.icons a {
+  color: white;
+}
+
+
+
